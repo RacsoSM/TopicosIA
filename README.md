@@ -22,10 +22,3 @@ TopicosIA/
     ├── N Reinas/
     └── Sistema de enrutamiento para tiendas de autoservicio/
 ```
-
-| Carpeta | Contenido |
-| --- | --- |
-| `Modulo 1/Investigacion` | Investigaciones del Módulo 1 |
-| `Modulo 2/Investigacion` | Investigaciones del Módulo 2 |
-| `Modulo 2/N Reinas` | Proyecto del problema de las N Reinas |
-| `Modulo 2/Sistema de enrutamiento para tiendas de autoservicio` | Proyecto del sistema de enrutamiento para tiendas de autoservicio |
